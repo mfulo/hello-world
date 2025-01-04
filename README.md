@@ -5,19 +5,9 @@
 ## Header 2
 ### Header 3
 
-normal
+normal **bold** *italic* ~strikethrough~ <mark>highlight</mark>
 
-**bold**
-
-*italic*
-
-~strikethrough~
-
-<mark>highlight</mark>
-
-Subscript<sub>2</sub>
-
-Superscript<sup>2</sup>
+Subscript<sub>2</sub> Superscript<sup>2</sup>
 
 > blockquote
 
@@ -51,3 +41,8 @@ Tasks
 - [x] done
 - [ ] not yet
 
+Col 1 title | Col 2 title | Col 3 title
+|-|-|-|
+content jkshbdvhjdsb | jhdfgvhjsfbg | jsydfgyusdfg
+||content
+a|b|c
