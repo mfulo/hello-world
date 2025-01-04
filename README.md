@@ -5,19 +5,35 @@
 ## Header 2
 ### Header 3
 
-normal **bold** *italic* ~strikethrough~ <mark>highlight</mark>
+normal **bold** *italic* ~strikethrough~ <mark>highlight</mark> <ins>underline</ins>
 
 Subscript<sub>2</sub> Superscript<sup>2</sup>
 
-> blockquote
+> [!Tip]
+> use blockquote to create alerts
+
+> [!NOTE]
+> ...
+
+> [!IMPORTANT]
+> ...
+
+> [!WARNING]
+> ...
+
+> [!CAUTION]
+> ...
+
+<!-- horizontal line -->
+--- 
 
 1. OL 1
 2. OL 2
 3. OL 3
 
---- <!-- horizontal line -->
-
+<!-- bullets can either be made using any of the ff: -, *, + -->
 - UL 1
+  - nested
 - UL 2
 - UL 3
 
@@ -46,3 +62,4 @@ Col 1 title | Col 2 title | Col 3 title
 content jkshbdvhjdsb | jhdfgvhjsfbg | jsydfgyusdfg
 ||content
 a|b|c
+
