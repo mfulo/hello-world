@@ -1,6 +1,7 @@
-// Trying out markdowns
+# Markdown Cheat Sheet
+
 <!-- comment -->
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
@@ -9,6 +10,14 @@ normal
 **bold**
 
 *italic*
+
+~strikethrough~
+
+<mark>highlight</mark>
+
+Subscript<sub>2</sub>
+
+Superscript<sup>2</sup>
 
 > blockquote
 
@@ -24,11 +33,21 @@ normal
 
 `boxed text`
 
-    this is a
-    long code
-    that can be
-    copied
+```
+fenced
+code
+block
+```
+
+Footnote [^1]
+[^1]: This is the footnote. Nevertheless, this will be placed at the end of the read me file.
 
 [clickable text to Github Skills](https://skills.github.com/)
 
-![momo](https://github.com/user-attachments/assets/395d03fd-c387-4e42-a196-c4d73af48912)
+<img src="momo.jpg" width="250"/>
+<!-- make sure image file is inside the repository -->
+
+Tasks
+- [x] done
+- [ ] not yet
+
