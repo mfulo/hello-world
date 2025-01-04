@@ -40,7 +40,7 @@ block
 ```
 
 Footnote [^1]
-[^1]: This is the footnote. Nevertheless, this will be placed at the end of the read me file.
+[^1]: This is the footnote. Nevertheless, this will be placed at the end of this file.
 
 [clickable text to Github Skills](https://skills.github.com/)
 
